@@ -1,6 +1,8 @@
 ## System Administration
 
 ### Windows System Administration
+[SVN*](http://svn.softuni.org/admin/svn/Win-Sys-Admin/) 
+
 * [Introduction to Windows Server](https://www.youtube.com/watch?v=_GbclxDbuLA)
 * [Basic Services and Components](https://www.youtube.com/watch?v=BfQ7BEBLYWE)
 * [Fundamentals of Active Directory](https://www.youtube.com/watch?v=Qc8NSKsPYts)
@@ -22,7 +24,10 @@
 * []()
 * []()
 * []()
+
 ### Linux System Administration
+[SVN*](http://svn.softuni.org/admin/svn/Linux-sys-admin/)
+
 * [Introduction to Linux](https://youtu.be/7jc76LguZfI)
 * [Working on the console. Users and access management](https://www.youtube.com/watch?v=C0318LSrTWs)
 * [Working with files and flows](https://youtu.be/v4XcRaDH6j4)
@@ -44,3 +49,6 @@
 * []()
 * []()
 * []()
+
+>SVN User & Pass:
+>>student
