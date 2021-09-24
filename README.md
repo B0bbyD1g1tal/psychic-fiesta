@@ -44,7 +44,7 @@
 * [Network Services](https://youtu.be/CJIoQCjX6_Q)
 * [Management and Maintenance](https://youtu.be/LbyLLcUkSNk)
 
-### DevOps
+## DevOps
 
 [SVN](http://svn.softuni.org/admin/svn/dev-ops/trunk/)
 * [Introduction to DevOps](https://youtu.be/HVEiLnGchI8)
