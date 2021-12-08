@@ -1,5 +1,28 @@
 >SVN User & Pass:```student```
 
+## Networks
+
+[SVN](http://svn.softuni.org/admin/svn/networks)
+* [Introduction to Networking](https://youtu.be/LurTeashPEQ)
+* [IP Addresses and Host-to-Host Communication](https://youtu.be/jjisLGHz2ZE)
+* [Network access, Security and Vlans](https://youtu.be/wxO0aHqdIJI)
+* [Layer 2 Redundancy - Spanning Tree Protocol](https://youtu.be/LU2RXnK5iPk)
+* [IP Services and Basic Routing](https://youtu.be/xM_qJMHPEp4)
+* [Dynamic Routing with OSPF](https://youtu.be/bUeUFYQqKFc)
+* [Demonstration](https://youtu.be/EGTR2_ZWH-k)
+* [Course Summary](https://youtu.be/sE5kzMlk6yk)
+
+[SVN](http://svn.softuni.org/admin/svn/network-advanced)
+* [Layer 2 Technologies Advanced]()
+* [OSPF Advanced]()
+* [Access Control Lists, Network Address Translation]()
+* [Domain Name System, IPV6]()
+* [Authentication with 802.1X, Wireless Networking Concepts]()
+* [Quality of service, port mirroring]()
+* [Virtualization and networking]()
+* [Software Defined Networking]()
+* [Cloud Networking with Microsoft Azure]()
+
 ## System Administration
 
 ### Windows System Administration
