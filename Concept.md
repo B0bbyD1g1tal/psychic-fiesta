@@ -69,7 +69,7 @@ ABS, ...
 Cover/ed
 Hot End (Consider Direct Drive ?)
 Auto Bed leveling
-
+PTFE Tube
 
 ### FDM Printers
 
