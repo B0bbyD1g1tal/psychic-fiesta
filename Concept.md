@@ -3,8 +3,6 @@
 >Philosophy
 
     FOSS and Open Hardware Designs
-    * //TODO POC
-    //TODO create R&D
 
 > Expertise
 
@@ -61,6 +59,42 @@
 
 ## Goals
 * 3D Printer Farm [full] automation
+
+# Farm Name //TODO
+
+## 3D Printer requirements
+Heat Bed > 200x200x200+
+Firmware Marlin Only
+ABS, ...
+Cover/ed
+Hot End (Consider Direct Drive ?)
+Auto Bed leveling
+
+
+### FDM Printers
+
+Creality Ender 3
+Creality Ender 5
+FlashForge CreatorPro
+
+ELEGOO Mars UV - Resin, ABS
+
+### Fillament
+
+
+Colors
+Dryer
+
+
+### Farm Advantages
+Firmware bilder - SW tuning, custom settings, instant updates
+Automation - OctoPrint + plugins
+Livestream - Twitch, Youtube, etc
+Timelapse 
+QA //TODO
+3D Modelling //TODO
+DevOps automation, Server
+Robotics Work Experince
 
 ## Research & Development
 > Vision
